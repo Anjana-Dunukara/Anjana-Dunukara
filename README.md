@@ -1,7 +1,33 @@
-![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=1711584000&v=beta&t=EukMuCoBPCNvZOkrfCtR55npGa9ULur_aBPtt-ZJKsw)
+![MasterHead](https://github.com/Anjana-Dunukara/Anjana-Dunukara/blob/main/github-header-image.png)
 <h1 align="center">Hi there!👋, I'm Anjana</h1>
-<h3 align="center">A Fullstack Developer from Sri Lanka...</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<h3 align="center">I'm passionate about leveraging the power of technology to make a positive impact! 🌐✨</h3>
+
+## 👨‍💻 My Interests:
+
+- **Programming Languages:**
+  - JavaScript, C++, .NET ❤️
+  
+- **Development Focus:**
+  - Software Development & Web Development 🚀
+  
+- **Cloud Computing Enthusiast:**
+  - Embracing the future of computing in the cloud ☁️
+
+- **Blockchain Enthusiast:**
+  - Building decentralized solutions and exploring the potential of blockchain 🚀🔗
+
+- **Continuous Learning:**
+  - Dedicated to self-learning and personal growth 📚💡
+
+## 🌍 About Me:
+
+I strongly believe in the transformative power of programming to enhance lives globally. There's always more to learn, more problems to solve, and more to build. For this, I am incredibly grateful. 🌟
+
+## 🤝 Let's Connect!
+
+If you share these interests or have exciting projects in mind, let's connect! Feel free to reach out and let's explore the endless possibilities together. 🤝✨
+<img style="margin-top:50px;" align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjana-dunukara&label=Profile%20views&color=0e75b6&style=flat" alt="anjana-dunukara" /> </p>
 
