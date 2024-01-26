@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/Anjana-Dunukara/Anjana-Dunukara/blob/main/github-header-image.png)
-<h1 align="center">Hi there!👋, I'm Anjana</h1>
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi+there!%F0%9F%91%8B%2C+I'm+Anjana+Welcome+to+my+profile!" align="middle" alt="Hey, I'm Anjana Welcome to my Profile! animated typed out">
 
 <h3 align="center">I'm passionate about leveraging the power of technology to make a positive impact! 🌐✨</h3>
 
