@@ -50,10 +50,11 @@ If you share these interests or have exciting projects in mind, let's connect! F
 
 ## 📊 My GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjana-dunukara&show_icons=true&locale=en&layout=compact" alt="anjana-dunukara" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anjana-Dunukara&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="anjana-dunukara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjana-dunukara&show_icons=true&locale=en" alt="anjana-dunukara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjana-Dunukara&theme=vue-dark&hide_border=true" alt="anjana-dunukara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjana-dunukara&" alt="anjana-dunukara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Dunukara&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="anjana-dunukara" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjana-dunukara&label=Profile%20views&color=0e75b6&style=flat" alt="anjana-dunukara" /> </p>
+
